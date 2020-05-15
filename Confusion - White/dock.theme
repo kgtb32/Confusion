@@ -1,0 +1,13 @@
+[PlankTheme]
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=236;;240;;241;;225
+FillEndColor=255;;255;;255;;125
+InnerStrokeColor=255;;255;;255;;125
+[PlankDockTheme]
+HorizPadding=1
+TopPadding=1.6
+BottomPadding=2.2
+IconShadowSize=10
+CascadeHide=false
+LaunchBounceTime=1200
+ClickTime=1600
